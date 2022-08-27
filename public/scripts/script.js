@@ -1,0 +1,6 @@
+function updatePosts() {
+
+}
+function newPost() {
+
+}
